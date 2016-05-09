@@ -1,0 +1,5 @@
+Help you to retrieve Chinese geolocation information in 0.0x ms，contains a very small database file,only 3.5M
+
+ip2region golang implementation
+
+Reference: [http://git.oschina.net/lionsoul/ip2region]
